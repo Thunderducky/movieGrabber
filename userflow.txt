@@ -1,0 +1,6 @@
+Ask the user for a movie
+Search for the movie
+Get info about that specific movie
+Ask the user for their rating
+Store it in the database
+Ask to continue
